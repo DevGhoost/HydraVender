@@ -1,0 +1,6 @@
+main: hydra.vender.Main
+name: HydraVender
+version: 0.1
+author: Ghoosti
+commands:
+  vender:
